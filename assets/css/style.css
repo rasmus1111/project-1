@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300&family=Poppins:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+} 
+ body {
+    font-family: lato, ital;
+    font-weight: 250;
+    color: black;
+ }
+ h1, h2 {
+    color: black;
+    text-transform: capitalize;
+ }
+
