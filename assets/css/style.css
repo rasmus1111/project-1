@@ -5,12 +5,25 @@
     border: none;
 } 
  body {
-    font-family: lato, ital;
+    font-family: LOto, sans-serif;
     font-weight: 250;
     color: black;
+    
  }
  h1, h2 {
+   font-family: Poppins, sans-serif;   
     color: black;
     text-transform: capitalize;
+    
  }
+
+ #loga {
+   font-size: 300%;
+   float: left;
+   margin-left: 25px;
+ }
+
+ #home {
+   float: right;
+   
 
